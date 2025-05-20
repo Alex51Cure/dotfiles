@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alexandre.le.saux@cure51.com
+	name = Alexandre Le Saux
